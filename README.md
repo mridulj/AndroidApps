@@ -1,4 +1,4 @@
-AndroidApps
+ToDo App
 ===========
 The app shows a listview to which items are added via the Add button. Additionally, items can be deleted from the list by keeping the
 mouse clicked on an item for long.
